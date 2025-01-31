@@ -12,7 +12,9 @@ A cena principal do jogo está localizada em: Assets-->TeamAssets-->Scenes
 -   **Xbox** -> A para bater normal e B para o especial.
 -   **PlayStation** -> X para bater normal e O para o Especial.
 
-##Asset##
+## Agradecimentos
+Agradeço a oportunidade de fazer o teste da Red District Studio, foi uma experiência divertida e que agregou e muito para o meu desenvolvimento pessoal na área. Fico aberto a disposição da equipe para remoção de dúvidas.
+Abaixo segue a lista com o link dos asset's utilizados.
 
 **música:**
 -   https://opengameart.org/content/final-punch
@@ -26,6 +28,3 @@ A cena principal do jogo está localizada em: Assets-->TeamAssets-->Scenes
 
 **Ícone:**
 -   https://iconduck.com/icons/25653/punch
-
-## Agradecimentos
-Agradeço a oportunidade de fazer o teste da Red District Studio, foi uma experiência divertida e que agregou e muito para o meu desenvolvimento pessoal na área. Fico aberto a disposição da equipe para remoção de dúvidas.
