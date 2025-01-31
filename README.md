@@ -1,7 +1,7 @@
 ## RedTest-main
  Repositório do teste de admissão para Programador 3D da Red District
 
-Para acessar a cena principal do jogo deve ir em: Assets-->TeamAssets-->Scenes
+Para acessar a cena principal do jogo deve ir em: Assets-->Teste-->Scenes
 
 ## Comandos
 -   **Teclado** -> WASD para movimentação.
