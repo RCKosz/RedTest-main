@@ -8,11 +8,11 @@ A cena principal do jogo está localizada em: Assets-->TeamAssets-->Scenes
 -   **Teclado** -> WASD para movimentação.
 -   **Combate** -> Botão direito do mouse para bater normal e esquerdo para o especial.
 
--   Analógio do controle para movimentação
--   **Xbox** -> A para bater normal e B para o especial
--   **PlayStation** -> X para bater normal e O para o Especial
+-   Analógio do controle para movimentação.
+-   **Xbox** -> A para bater normal e B para o especial.
+-   **PlayStation** -> X para bater normal e O para o Especial.
 
-##Assets
+##Asset
 
 **musica:**
 -   https://opengameart.org/content/final-punch
