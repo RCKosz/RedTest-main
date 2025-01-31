@@ -13,6 +13,7 @@ A cena principal do jogo está localizada em: Assets-->TeamAssets-->Scenes
 -   **PlayStation** -> X para bater normal e O para o Especial
 
 ##Assets
+
 **musica:**
 -   https://opengameart.org/content/final-punch
 -   https://opengameart.org/content/menu-selection-click
